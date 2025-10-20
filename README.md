@@ -48,4 +48,8 @@ All final analytical outputs, code, conclusions, and documentation have been tho
 
 5. TEAM MEMBERS
 
-[List all Team Member Names Here]
+Nick Stock
+Gabe Sansom
+Frederick Walter
+Jake Jensen
+Garret Schoeb
